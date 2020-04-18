@@ -1,7 +1,8 @@
 # geopattern-generator
 
 Crie patterns incríveis com esse gerador :D
-# [Demo](http://gpedro.github.io/geopattern-generator)
+# [Commit](https://victorpubh.github.io/geopattern-generator/)
+# [Original](http://gpedro.github.io/geopattern-generator)
 
 - - - 
 
